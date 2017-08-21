@@ -16,3 +16,9 @@ Supplier<U>
 Function<U><R>
 Predicate<T>
 
+Nice backward compatibility
+
+
+
+
+

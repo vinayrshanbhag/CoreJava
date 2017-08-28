@@ -15,7 +15,7 @@ public class Sample {
 			
 		}
 		
-		System.out.println("Useless called with value" + 1);
+		System.out.println("Useless called with value" + value);
 	}
 	
 	public static void main(String[] args) {

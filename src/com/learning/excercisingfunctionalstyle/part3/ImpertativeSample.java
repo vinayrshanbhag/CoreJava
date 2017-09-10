@@ -25,7 +25,7 @@ class TimeSlot{
 public class ImpertativeSample {
 	
 	public static List<TimeSlot> createTimeSlots(){
-		return Arrays.asList(new TimeSlot(),new TimeSlot(),new TimeSlot());
+		return Arrays.asList(new TimeSlot(),new TimeSlot(),new TimeSlot() ,new TimeSlot(), new TimeSlot());
 	}
 	
 	public static void main(String[] args) {

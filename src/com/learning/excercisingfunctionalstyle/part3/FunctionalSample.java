@@ -1,4 +1,4 @@
-package com.learning.excercisingfunctionalstyle.part3;
+	package com.learning.excercisingfunctionalstyle.part3;
 
 import java.util.Arrays;
 import java.util.List;
@@ -14,7 +14,8 @@ class TimeSlot1{
 	 }
 	 
 	 public boolean isAvailable(){
-		 return random.nextBoolean();
+		 //return random.nextBoolean();
+		 return true;
 	 }
 	 
 	
@@ -22,14 +23,22 @@ class TimeSlot1{
 
 public class FunctionalSample {
 	
+	public static List<TimeSlot1> createTimeSlots() {
+		return Arrays.asList(new TimeSlot1(), 
+				              new TimeSlot1(), 
+				              new TimeSlot1(),
+				              new TimeSlot1(), 
+				              new TimeSlot1());
+	}
 	
-	public static void main(String[] args) {}{
-		List<TimeSlot> timeSlots = ImpertativeSample.createTimeSlots();
+	
+	public static void main(String[] args) {
+		List<TimeSlot1> timeSlots = FunctionalSample.createTimeSlots();
 		
 		System.out.println(timeSlots.stream()
-				                    .filter(TimeSlot::isAvailable)
+				                    .filter(TimeSlot1::isAvailable)
 				                    .findFirst()
-				                    .map(TimeSlot::schedule)
+				                    .map(TimeSlot1::schedule)
 				                    .orElse("not available"));
 		                            
 		

@@ -23,7 +23,7 @@ public class ConsumerSample {
 		
 		
 		
-		List<Integer> listOfNumbers = Arrays.asList(1,2,3);
+		List<Integer> listOfNumbers = Arrays.asList(1,2,3); ; ;
 		
 		listOfNumbers.forEach(value-> System.out.println(value));
 		listOfNumbers.forEach(printIt);

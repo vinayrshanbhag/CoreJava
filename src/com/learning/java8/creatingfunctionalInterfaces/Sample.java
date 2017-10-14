@@ -1,4 +1,4 @@
-package com.learning.creatingfunctionalInterfaces;
+package com.learning.java8.creatingfunctionalInterfaces;
 
 public class Sample {
 	

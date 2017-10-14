@@ -1,4 +1,4 @@
-package com.learning.excercisingfunctionalstyle.part9;
+package com.learning.java8.excercisingfunctionalstyle.part9;
 
 import java.util.ArrayList;
 import java.util.Arrays;

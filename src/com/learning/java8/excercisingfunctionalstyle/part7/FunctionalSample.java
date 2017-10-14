@@ -1,4 +1,4 @@
-package com.learning.excercisingfunctionalstyle.part7;
+package com.learning.java8.excercisingfunctionalstyle.part7;
 
 import java.io.IOException;
 import java.nio.file.Files;

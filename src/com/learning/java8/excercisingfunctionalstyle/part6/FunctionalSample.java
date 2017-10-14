@@ -1,4 +1,4 @@
-package com.learning.excercisingfunctionalstyle.part6;
+package com.learning.java8.excercisingfunctionalstyle.part6;
 
 import java.util.stream.IntStream;
 

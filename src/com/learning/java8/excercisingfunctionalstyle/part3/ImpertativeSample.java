@@ -1,4 +1,4 @@
-package com.learning.excercisingfunctionalstyle.part3;
+package com.learning.java8.excercisingfunctionalstyle.part3;
 
 import java.sql.Time;
 import java.util.Arrays;

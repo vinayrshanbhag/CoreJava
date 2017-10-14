@@ -1,4 +1,4 @@
-package com.learning.ConsumerInterface;
+package com.learning.java8.fundfunctionInterfaces.ConsumerInterface;
 
 import java.util.Arrays;
 import java.util.List;

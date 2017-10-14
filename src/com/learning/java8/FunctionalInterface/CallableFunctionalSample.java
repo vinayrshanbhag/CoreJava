@@ -1,4 +1,4 @@
-package com.learning.FunctionalInterface;
+package com.learning.java8.FunctionalInterface;
 
 import java.util.ArrayList;
 import java.util.Arrays;

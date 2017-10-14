@@ -1,4 +1,4 @@
-package com.learning.supplierfunctionalinterface;
+package com.learning.java8.fundfunctionInterfaces.supplierfunctionalinterface;
 
 import java.util.function.Supplier;
 

@@ -1,4 +1,4 @@
-package com.learning.functionInterface;
+package com.learning.java8.fundfunctionInterfaces.functionInterface;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.learning.predicateInterface;
+package com.learning.java8.fundfunctionInterfaces.predicateInterface;
 
 import java.util.Arrays;
 import java.util.List;

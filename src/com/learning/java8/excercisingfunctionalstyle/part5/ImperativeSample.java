@@ -1,4 +1,4 @@
-package com.learning.excercisingfunctionalstyle.part5;
+package com.learning.java8.excercisingfunctionalstyle.part5;
 
 import java.util.Arrays;
 import java.util.Collections;

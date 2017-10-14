@@ -1,4 +1,4 @@
-package com.learning.excercisingfunctionalstyle.part4;
+package com.learning.java8.excercisingfunctionalstyle.part4;
 
 import java.io.File;
 import java.util.stream.Collectors;

@@ -1,4 +1,4 @@
-package com.learning.excercisingfunctionalstyle.part5;
+package com.learning.java8.excercisingfunctionalstyle.part5;
 
 public class Person{ //implements Comparable<Person>{
 	

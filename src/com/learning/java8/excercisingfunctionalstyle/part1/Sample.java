@@ -1,4 +1,4 @@
-package com.learning.excercisingfunctionalstyle.part1;
+package com.learning.java8.excercisingfunctionalstyle.part1;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

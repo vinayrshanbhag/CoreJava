@@ -10,7 +10,7 @@ public class MethodReferenceIntroSample {
 		
 		//numbers.forEach(number->System.out.print(number));
 		
-		numbersforEach(System.out::println);
+		numbers.forEach(System.out::println);
 	}
 
 }

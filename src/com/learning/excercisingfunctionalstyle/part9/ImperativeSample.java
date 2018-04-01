@@ -7,7 +7,7 @@ import java.util.Map;
 
 import sun.font.CreatedFontTracker;
 
-public class ImperativeSample {
+public class ImperativeSample {/*
 	
 	public static List<Person>  createPeople(){
 		return Arrays.asList(
@@ -26,15 +26,15 @@ public class ImperativeSample {
 	
 	
     public static void main(String[] args) {
-		  List<Person> people = createPeople();
-		  Map<Integer, List<Person>> groupedByAge= new HashMap<>();
-		  
-		  for(Person person:people) {
-			  int age = person.getAge();
-			  List<Person>
-			  if(!groupedByAge.containsKey(age)) {
-				  groupedByAge.put(age, person);
-			  }
-		  }
+//		  List<Person> people = createPeople();
+//		  Map<Integer, List<Person>> groupedByAge= new HashMap<>();
+//		  
+//		  for(Person person:people) {
+//			  int age = person.getAge();
+////			  List<Person>
+////			  if(!groupedByAge.containsKey(age)) {
+////				  groupedByAge.put(age, person);
+////			  }
+//		  }
 	}
-}
+*/}

@@ -1,6 +1,5 @@
 package com.learning.Streams;
 
-import com.learning.supplierfunctionalinterface.SupplierOptionalSample;
 
 import java.util.function.Supplier;
 import java.util.stream.Stream;
